@@ -1,0 +1,14 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "Skills Team"
+  },
+  "description": "Claude Code skills synced from Notion.",
+  "plugins": [
+    {
+      "name": "notion-skill-updater",
+      "source": "./plugins/notion-skill-updater",
+      "description": "Edit or create Cowork skills by updating their source in Notion."
+    }
+  ]
+}

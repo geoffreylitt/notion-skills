@@ -1,0 +1,16 @@
+{
+  "source": "notion",
+  "syncedBy": "notion-skills-github-sync",
+  "notion": {
+    "env": "prod",
+    "databaseId": "738dae99-48f1-423e-af7b-df6bf7aae25b",
+    "skillsDataSourceId": "d0109e58-5e33-40f7-adc0-0053152895da",
+    "pageId": "396fb13b-8710-8185-9885-cbf50a0dbc7b",
+    "url": "https://www.notion.so/p/396fb13b871081859885cbf50a0dbc7b"
+  },
+  "skill": {
+    "slug": "project-planning",
+    "name": "Project Planning"
+  },
+  "contentHash": "sha256:13dee68b885b84f893014e6925183ba75b99a9a9007fb38e9f44dcfaa70e4945"
+}

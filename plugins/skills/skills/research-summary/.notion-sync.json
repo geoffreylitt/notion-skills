@@ -1,0 +1,16 @@
+{
+  "source": "notion",
+  "syncedBy": "notion-skills-github-sync",
+  "notion": {
+    "env": "prod",
+    "databaseId": "738dae99-48f1-423e-af7b-df6bf7aae25b",
+    "skillsDataSourceId": "d0109e58-5e33-40f7-adc0-0053152895da",
+    "pageId": "396fb13b-8710-81a0-80db-f87987e2f26e",
+    "url": "https://www.notion.so/p/396fb13b871081a080dbf87987e2f26e"
+  },
+  "skill": {
+    "slug": "research-summary",
+    "name": "Research Summary"
+  },
+  "contentHash": "sha256:7c24b35c02ea76c9b067c0e122ee39492f851755de956d9dced36f07f96d5467"
+}

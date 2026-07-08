@@ -1,0 +1,16 @@
+{
+  "source": "notion",
+  "syncedBy": "notion-skills-github-sync",
+  "notion": {
+    "env": "prod",
+    "databaseId": "01011b58-b9ee-49bd-855d-3fe7eb359cd3",
+    "skillsDataSourceId": "3f63d5bf-6a66-40a3-b3c5-6f5c8535c376",
+    "pageId": "397fb13b-8710-8186-8920-d91e7d2dad17",
+    "url": "https://www.notion.so/p/397fb13b871081868920d91e7d2dad17"
+  },
+  "skill": {
+    "slug": "document-review",
+    "name": "Document Review"
+  },
+  "contentHash": "sha256:38b2c1115f467a948451255f46bf902837db60c6906841b1b5d553de485787c7"
+}

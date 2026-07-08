@@ -1,0 +1,16 @@
+{
+  "source": "notion",
+  "syncedBy": "notion-skills-github-sync",
+  "notion": {
+    "env": "prod",
+    "databaseId": "01011b58-b9ee-49bd-855d-3fe7eb359cd3",
+    "skillsDataSourceId": "3f63d5bf-6a66-40a3-b3c5-6f5c8535c376",
+    "pageId": "397fb13b-8710-8199-b075-e1ab54912819",
+    "url": "https://www.notion.so/p/397fb13b87108199b075e1ab54912819"
+  },
+  "skill": {
+    "slug": "meeting-notes",
+    "name": "Meeting Notes"
+  },
+  "contentHash": "sha256:76dc7dd0e3b0ad8882c9ae1f172827532225cca6e2ac8311d27e5d11d3fb0ec4"
+}

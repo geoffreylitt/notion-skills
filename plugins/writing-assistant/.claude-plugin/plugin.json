@@ -1,0 +1,8 @@
+{
+  "name": "document-review",
+  "version": "1.0.0",
+  "description": "Reviews documents for clarity, completeness, and consistency. Suggests improvements and flags potential issues.",
+  "author": {
+    "name": "Notion CLI"
+  }
+}

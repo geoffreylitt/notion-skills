@@ -1,0 +1,16 @@
+{
+  "source": "notion",
+  "syncedBy": "notion-skills-github-sync",
+  "notion": {
+    "env": "prod",
+    "databaseId": "01011b58-b9ee-49bd-855d-3fe7eb359cd3",
+    "skillsDataSourceId": "3f63d5bf-6a66-40a3-b3c5-6f5c8535c376",
+    "pageId": "397fb13b-8710-818d-8bcd-d479fd857040",
+    "url": "https://www.notion.so/p/397fb13b8710818d8bcdd479fd857040"
+  },
+  "skill": {
+    "slug": "email-drafting",
+    "name": "Email Drafting"
+  },
+  "contentHash": "sha256:34b0464a941773eb756af84412b6f6f37db0b06d0a595b80b8db445b68f86331"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "research-summary",
+  "version": "1.0.0",
+  "description": "Synthesizes research from multiple sources into clear, actionable summaries with key takeaways.",
+  "author": {
+    "name": "Notion CLI"
+  }
+}

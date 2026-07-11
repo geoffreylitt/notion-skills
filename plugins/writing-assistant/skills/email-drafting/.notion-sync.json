@@ -3,10 +3,10 @@
   "syncedBy": "notion-skills-github-sync",
   "notion": {
     "env": "prod",
-    "databaseId": "46c5843c-d129-4444-8944-2fec609c461a",
-    "skillsDataSourceId": "41cabc9c-cf26-451f-ac75-eb85e198799a",
-    "pageId": "398fb13b-8710-8169-b8a8-e05a0c2dfd90",
-    "url": "https://www.notion.so/p/398fb13b87108169b8a8e05a0c2dfd90"
+    "databaseId": "6a2e8eda-8b17-4d17-acb8-5672080be6a9",
+    "skillsDataSourceId": "a7dd4c98-2657-4c03-b5ae-8fd879c70633",
+    "pageId": "398fb13b-8710-8163-ae0b-cc30347b6808",
+    "url": "https://www.notion.so/p/398fb13b87108163ae0bcc30347b6808"
   },
   "skill": {
     "slug": "email-drafting",

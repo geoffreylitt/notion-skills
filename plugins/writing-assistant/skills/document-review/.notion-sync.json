@@ -3,10 +3,10 @@
   "syncedBy": "notion-skills-github-sync",
   "notion": {
     "env": "prod",
-    "databaseId": "6a2e8eda-8b17-4d17-acb8-5672080be6a9",
-    "skillsDataSourceId": "a7dd4c98-2657-4c03-b5ae-8fd879c70633",
-    "pageId": "398fb13b-8710-81f7-b1cf-e64d6e8c01bc",
-    "url": "https://www.notion.so/p/398fb13b871081f7b1cfe64d6e8c01bc"
+    "databaseId": "46c5843c-d129-4444-8944-2fec609c461a",
+    "skillsDataSourceId": "41cabc9c-cf26-451f-ac75-eb85e198799a",
+    "pageId": "398fb13b-8710-81d0-8d59-c6e6405ec3ea",
+    "url": "https://www.notion.so/p/398fb13b871081d08d59c6e6405ec3ea"
   },
   "skill": {
     "slug": "document-review",

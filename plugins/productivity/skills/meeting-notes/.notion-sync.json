@@ -3,10 +3,10 @@
   "syncedBy": "notion-skills-github-sync",
   "notion": {
     "env": "prod",
-    "databaseId": "46c5843c-d129-4444-8944-2fec609c461a",
-    "skillsDataSourceId": "41cabc9c-cf26-451f-ac75-eb85e198799a",
-    "pageId": "398fb13b-8710-811c-badc-d6329aa698c8",
-    "url": "https://www.notion.so/p/398fb13b8710811cbadcd6329aa698c8"
+    "databaseId": "6a2e8eda-8b17-4d17-acb8-5672080be6a9",
+    "skillsDataSourceId": "a7dd4c98-2657-4c03-b5ae-8fd879c70633",
+    "pageId": "398fb13b-8710-8116-886e-cb16b098a18e",
+    "url": "https://www.notion.so/p/398fb13b87108116886ecb16b098a18e"
   },
   "skill": {
     "slug": "meeting-notes",
